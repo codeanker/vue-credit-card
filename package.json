@@ -1,6 +1,6 @@
 {
   "name": "@codeanker/vue-credit-card",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Vue.js wrapper for credit card https://github.com/jessepollak/card",
   "keywords": [
     "card",
